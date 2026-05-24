@@ -1,4 +1,4 @@
-# UD5T3
+# UD5T3 -- Calculo Geometrico
 
 ## Es un pequeño ejecutable que sirve a modo de calculo de area y perímetro del rectángulo y del círculo
 
