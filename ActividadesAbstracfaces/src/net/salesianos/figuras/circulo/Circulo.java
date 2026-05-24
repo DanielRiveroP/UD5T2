@@ -3,7 +3,7 @@ package net.salesianos.figuras.circulo;
 import net.salesianos.calculoGeometrico.CalculoGeometrico;
 
 public class Circulo implements CalculoGeometrico {
-    private double radio;
+    protected double radio;
 
     public Circulo(double radio) {
         this.radio = radio;

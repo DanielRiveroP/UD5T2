@@ -3,8 +3,8 @@ package net.salesianos.figuras.rectangulo;
 import net.salesianos.calculoGeometrico.CalculoGeometrico;
 
 public class Rectangulo implements CalculoGeometrico {
-    private double base;
-    private double altura;
+    protected double base;
+    protected double altura;
 
     public Rectangulo(double base, double altura) {
         this.base = base;
